@@ -107,6 +107,8 @@ MIT License - Use as is, no liability to the Author and Partners
 
 If you find this code useful, please consider supporting us!
 
+<img src="https://github.com/Hey-Salad/.github/blob/a4cbf4a12cca3477fdbfe55520b3fdfe0e0f35a4/buy-me-a-coffee.png" alt="Buy Me A Coffee QR Code" width="200"/>
+
 <a href="https://www.buymeacoffee.com/heysalad"><img src="https://github.com/Hey-Salad/.github/blob/a4cbf4a12cca3477fdbfe55520b3fdfe0e0f35a4/bmc-button.png" alt="Buy Me A Coffee" width="200"/></a>
 
 ## 🤝 Contributing
